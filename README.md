@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rachmayadi
-- 👀 I’m interested in software and technology
-- 🌱 I’m currently learning devops and cybersecurity
-- 💞️ I’m looking to collaborate on linux development for cybersecurity
-- 📫 I can be reached at t.rachmayadi@gmail.com
+- Hi, I’m @rachmayadi and I'm:
+- interested in software and technology,
+- currently working as SAP ABAP Developer,
+- currently learning devops and cybersecurity.
+- Finally, I can be reached at t.rachmayadi@gmail.com.
 
 <!---
 rachmayadi/rachmayadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
