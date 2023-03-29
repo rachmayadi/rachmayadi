@@ -1,7 +1,6 @@
 - Hi, I’m @rachmayadi and I'm:
 - interested in software and technology,
 - currently working as SAP ABAP Developer,
-- currently learning devops and cybersecurity.
 - Finally, I can be reached at t.rachmayadi@gmail.com.
 
 <!---
