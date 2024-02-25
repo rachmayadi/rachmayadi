@@ -1,7 +1,7 @@
 - Hi, I’m @rachmayadi and I'm:
-- interested in software and technology,
-- currently working as SAP ABAP Developer,
-- Finally, I can be reached at t.rachmayadi@gmail.com.
+- interested in software engineering ,
+- currently working as software engineer with focus on SAP ABAP Developer and Python programming.
+- I can be reached at t.rachmayadi@gmail.com.
 
 <!---
 rachmayadi/rachmayadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
